@@ -1,0 +1,5 @@
+Credentials cache: API:347CB7AC-762C-4A17-B6F7-C48A6CA87C01
+        Principal: kpauly@42LYON.FR
+
+  Issued                Expires               Principal
+Aug  2 16:06:44 2021  Aug  3 16:06:44 2021  krbtgt/42LYON.FR@42LYON.FR
